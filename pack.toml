@@ -1,0 +1,11 @@
+name = "another day another slay"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f326246d9d6aa55dc5b57df353ad3ced9d25eea15c12512ec3c2af332bd48c8"
+
+[versions]
+forge = "36.2.39"
+minecraft = "1.16.5"

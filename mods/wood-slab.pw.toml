@@ -1,0 +1,13 @@
+name = "Wood Slab"
+filename = "Wood Slab 1.16.5 V1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25c1f5ffb6e43b1c8cbce06ed26e507cec52a747"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3446327
+project-id = 522780

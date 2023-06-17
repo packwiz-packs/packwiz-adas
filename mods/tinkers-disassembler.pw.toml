@@ -1,0 +1,13 @@
+name = "Tinkers Disassembler"
+filename = "TinkersDisassemble-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8fd1b700d43d45cfad27104e26247996c20decd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4468343
+project-id = 826357
